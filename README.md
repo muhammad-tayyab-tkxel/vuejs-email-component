@@ -1,4 +1,5 @@
-# emails-poc
+
+# A vuejs component that allows the user to add/remove a list of email addresses and show all email addresses in comma separated format on the same page.
 
 ## Project setup
 ```
